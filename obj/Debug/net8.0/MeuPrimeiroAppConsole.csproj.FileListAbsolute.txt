@@ -1,0 +1,14 @@
+C:\Users\miguel\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.exe
+C:\Users\miguel\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.deps.json
+C:\Users\miguel\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.runtimeconfig.json
+C:\Users\miguel\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.dll
+C:\Users\miguel\MeuPrimeiroAppConsole\bin\Debug\net8.0\MeuPrimeiroAppConsole.pdb
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.AssemblyInfoInputs.cache
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.AssemblyInfo.cs
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.dll
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\refint\MeuPrimeiroAppConsole.dll
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.pdb
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\MeuPrimeiroAppConsole.genruntimeconfig.cache
+C:\Users\miguel\MeuPrimeiroAppConsole\obj\Debug\net8.0\ref\MeuPrimeiroAppConsole.dll
